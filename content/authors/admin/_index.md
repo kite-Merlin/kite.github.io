@@ -55,7 +55,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2025-04-15
-    date_end: 2025-04-31
+    date_end: 2025-04-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
